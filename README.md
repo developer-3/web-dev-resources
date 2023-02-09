@@ -1,5 +1,5 @@
 # Web Dev Resources
-A list of websites/resources useful for web development
+A list of websites/resources useful for web development. Contributions welcome via PR!
 
 ## Contents
 
